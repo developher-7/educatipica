@@ -9,7 +9,7 @@ let data = [
       título: "Método ABA",
       descrição: "A Análise do Comportamento Aplicada (ABA) é uma abordagem terapêutica baseada em princípios científicos que visa aumentar habilidades e reduzir comportamentos desafiadores. O ABA utiliza técnicas individualizadas para cada pessoa, promovendo o desenvolvimento de habilidades sociais, comunicativas e de vida independente.",
       link: "https://anhanguera.edu.br/wp-content/uploads/Artigo-1-3.pdf",
-      tags: "ABA, análisecomportamentalaplicada, terapiacomportamental, autismo, desenvolvimentoinfantil, intervençãocomportamental, ABAinfantil, ABAadulto, autismoinfantil, autismoadulto, deficiênciaintelectual, desenvolvimentosocial, habilidadescomunicativas, habilidadessociais, ensinoindividualizado"
+      tags: "ABA, aba, autista, análisecomportamentalaplicada, terapiacomportamental, autismo, desenvolvimentoinfantil, intervençãocomportamental, ABAinfantil, ABAadulto, autismoinfantil, autismo dulto, deficiênciaintelectual, desenvolvimentosocial, habilidadescomunicativas, habilidadessociais, ensinoindividualizado"
     },
     {
       título: "Neurociência aplicada à educação de neurodivergentes",
